@@ -1,0 +1,8 @@
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\bin\Debug\PudongTraining.exe
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\bin\Debug\PudongTraining.pdb
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\obj\x86\Debug\PudongTraining.Form1.resources
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\obj\x86\Debug\PudongTraining.Properties.Resources.resources
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\obj\x86\Debug\PudongTraining.csproj.GenerateResource.Cache
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\obj\x86\Debug\PudongTraining.exe
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\obj\x86\Debug\PudongTraining.pdb
+D:\Darren\Darren\Excesice\PudongTraining\PudongTraining\bin\Debug\PudongTraining.exe.config
